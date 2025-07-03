@@ -20,7 +20,7 @@
 
 为展示独立AI项目开发能力，特开源此项目并全程记录开发过程。
 
-自媒体主页：  
+👥自媒体主页：  
 [![B站](https://img.shields.io/badge/B站-点击查看-FF69B4)]
 [![知乎](https://img.shields.io/badge/知乎-技术文章-blue)]
 
